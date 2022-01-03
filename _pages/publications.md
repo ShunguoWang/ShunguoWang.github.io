@@ -8,8 +8,11 @@ author_profile: true
 <br>
 [Ctrl/⌘+click opens all the links in a new tab](https://shunguowang.github.io/google5dce8c34251015a7.html)
 
+Bastani, M., <b>Wang, S.</b>, Malehmir, A., Mehta, S., 2021. <br> <b>[Radio-magnetotelluric and controlled-source magnetotelluric surveys on a frozen lake: opportunities for urban applications in Nordic countries.](https://onlinelibrary.wiley.com/doi/full/10.1002/nsg.12180)</b> <br> <i>Near Surface Geophysics</i>, DOI: 10.1002/nsg.12180.
 
-Rychert C.A., Tharimena S., Harmon N., <b>Wang, S.</b>, Kendall J.M., Constable S., Bogiatzis P., SchlaphorstD., Agius M., Hicks S., 2019. <br> <b>[A dynamic lithosphere-asthenosphere boundary dictated by variations in melt generation and migration.]</b> <br> <i>Under review</i> 
+Harmon N., <b>Wang, S.</b>, Rychert C.A., Kendall J.M., Constable S., 2021. <br> <b>[Joint Interpretation of Shear Velocity and Resistivity from the PI-LAB Experiment at the Equatorial Mid Atlantic Ridge.](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JB022202)</b> <br> <i>Journal of Geophysical Research: Solid Earth</i>, 126(8), e2021JB022202. DOI: https://doi.org/10.1029/2021JB022202. 
+
+Rychert C.A., Tharimena S., Harmon N., <b>Wang, S.</b>, Kendall J.M., Constable S., Bogiatzis P., SchlaphorstD., Agius M., Hicks S., 2021. <br> <b>[A dynamic lithosphere-asthenosphere boundary near the equatorial Mid-Atlantic Ridge.](https://www.sciencedirect.com/science/article/abs/pii/S0012821X21002089?via%3Dihub)</b> <br> <i>Earth and Planetary Science Letters</i>, 566, https://doi.org/10.1016/j.epsl.2021.116949. 
 
 <b>Wang, S.</b>, Constable, S., Reyes-Ortega, V., Jahandari, H., Farquharson, C., Avilés-Esquivel, T., 2021. <br> <b>[Two-dimensional determinant inversion of marine magnetotelluric data and a field example from the Gulf of California, Mexico.](https://library.seg.org/doi/full/10.1190/geo2019-0735.1)</b> <br>  <i>Geophysics</i>, 86(1), E37-E57. doi:10.1190/GEO2019-0735.1
 
