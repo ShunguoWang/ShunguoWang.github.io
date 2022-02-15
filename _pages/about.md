@@ -74,7 +74,7 @@ I became a geophysicist. You do so if you enjoy implementing new algorithms, acq
 
 <br> <b> <span style="font-size:150%"> Education </span> </b> <br>
 <br> <b>2013 - 2017</b> 
-<br> Ph.D., Solid-Earth Geophysics, Uppsala University
+<br> Ph.D., Solid-Earth Physics, Uppsala University
 <br> Advisors: [Mehrdad Bastani](https://www.researchgate.net/profile/Mehrdad_Bastani), [Thomas Kalscheuer](https://katalog.uu.se/profile/?id=N4-593), [Alireza Malehmir](https://katalog.uu.se/profile/?id=N3-1060), [Laust B. Pedersen](https://www.researchgate.net/profile/Laust_Pedersen)
 <br> <b>2017</b> 
 <br> Visiting graduate, Scripps Institution of Oceanography
