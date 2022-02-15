@@ -86,12 +86,12 @@ I became a geophysicist. You do so if you enjoy implementing new algorithms, acq
 <br> Ph.D. candidate, Applied Geophysics, Central South University
 <br> Advisor: [Shikun Dai](https://www.researchgate.net/scientific-contributions/2107347787_Shikun_Dai)
 <br> <b>2009 - 2012</b> 
-<br> M.S., Applied Geophysics, Central South University
+<br> M.S., Earth Exploration and Information Technology, Central South University
 <br> Advisors: [Bin Xiong](https://www.researchgate.net/scientific-contributions/2078601980_Bin_Xiong), [Jishan He](http://en.csu.edu.cn/info/1010/1429.htm)
 <br> <b>2011</b> 
 <br> Exchange program, Guilin University of Technology
 <br> <b>2005 - 2009</b> 
-<br> B.S., Applied Geophysics, Central South University
+<br> B.S., Info-physics and Geomatics Engineering, Central South University
 
 <title>Online Visitors Counter</title>
 <script src='http://shunguowang.github.io/online-visitors-counter-master/ovc/counter.js'></script>
