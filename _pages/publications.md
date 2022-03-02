@@ -8,7 +8,9 @@ author_profile: true
 <br>
 [Ctrl/⌘+click opens all the links in a new tab](https://shunguowang.github.io/google5dce8c34251015a7.html)
 
-Bastani, M., <b>Wang, S.</b>, Malehmir, A., Mehta, S., 2021. <br> <b>[Radio-magnetotelluric and controlled-source magnetotelluric surveys on a frozen lake: opportunities for urban applications in Nordic countries.](https://onlinelibrary.wiley.com/doi/full/10.1002/nsg.12180)</b> <br> <i>Near Surface Geophysics</i>, DOI: 10.1002/nsg.12180.
+Dai, S., Zhao, D., <b>Wang, S.</b>, Li, K., Jahandari, H., 2022. <br> <b>[Three-dimensional magnetotelluric modelling in a mixed space-wavenumber domain] <i>Geophysics</i>, accepted
+
+Bastani, M., <b>Wang, S.</b>, Malehmir, A., Mehta, S., 2022. <br> <b>[Radio-magnetotelluric and controlled-source magnetotelluric surveys on a frozen lake: opportunities for urban applications in Nordic countries.](https://onlinelibrary.wiley.com/doi/full/10.1002/nsg.12180)</b> <br> <i>Near Surface Geophysics</i>, 20(1), DOI: 10.1002/nsg.12180.
 
 Harmon N., <b>Wang, S.</b>, Rychert C.A., Kendall J.M., Constable S., 2021. <br> <b>[Joint Interpretation of Shear Velocity and Resistivity from the PI-LAB Experiment at the Equatorial Mid Atlantic Ridge.](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JB022202)</b> <br> <i>Journal of Geophysical Research: Solid Earth</i>, 126(8), e2021JB022202. DOI: https://doi.org/10.1029/2021JB022202. 
 
