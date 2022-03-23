@@ -8,7 +8,7 @@ author_profile: true
 <br>
 [Ctrl/⌘+click opens all the links in a new tab](https://shunguowang.github.io/google5dce8c34251015a7.html)
 
-Dai, S., Zhao, D., <b>Wang, S.</b>, Li, K., Jahandari, H., 2022. <br> <b>[Three-dimensional magnetotelluric modelling in a mixed space-wavenumber domain] <i>Geophysics</i>, accepted
+Dai, S., Zhao, D., <b>Wang, S.</b>, Li, K., Jahandari, H., 2022. <br> <b>[Three-dimensional magnetotelluric modelling in a mixed space-wavenumber domain] (https://library.seg.org/doi/10.1190/geo2021-0216.1)</b> <br> <i>Geophysics</i>, 87(4), https://doi.org/10.1190/geo2021-0216.1.
 
 Bastani, M., <b>Wang, S.</b>, Malehmir, A., Mehta, S., 2022. <br> <b>[Radio-magnetotelluric and controlled-source magnetotelluric surveys on a frozen lake: opportunities for urban applications in Nordic countries.](https://onlinelibrary.wiley.com/doi/full/10.1002/nsg.12180)</b> <br> <i>Near Surface Geophysics</i>, 20(1), DOI: 10.1002/nsg.12180.
 
