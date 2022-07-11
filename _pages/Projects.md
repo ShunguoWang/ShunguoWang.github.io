@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <br> <b>1. Middle Atlantic Ridge Study with Three-Dimensional Magnetotelluric novel Technique (MARS3DMT)</b>
-<br> PI, Funded by the Research Council of Norway (no. 324442)
+<br> PI, [Funded by the Research Council of Norway (no. 324442)](https://prosjektbanken.forskningsradet.no/en/project/FORISS/324442?Kilde=FORISS&distribution=Ar&chart=bar&calcType=funding&Sprak=no&sortBy=date&sortOrder=desc&resultCount=30&offset=0&ProgAkt.3=FRINATEK-Fri+prosj.st.+mat.%2Cnaturv.%2Ctek&source=FORISS&projectId=314074)
 
 The main objective of MARS3DMT is to build a reliable three-dimensional resistivity model with magnetotelluric (MT) data at Middle Atlantic Ridge due to its simpler geological history than the continents. The model will improve the understanding of partial melts, melt fraction, and water content beneath the ocean ridges, etc., especially with quantified model uncertainties. Then, the elusive deep structures of Earth, such as the lithosphere-asthenosphere boundary (LAB), can be better understood. This is crucial for the understanding of the planet and how it operates.
 
