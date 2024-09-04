@@ -43,7 +43,7 @@ redirect_from:
       </div>
     </div>
         <div class="carousel-item">
-      <img src="http://shunguowang.github.io/images/surf.jpeg" class="d-block w-100" alt="...">
+      <img src="http://shunguowang.github.io/images/Surf.jpeg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
         <p>Surf site in Lofoten, Norway</p>
       </div>
