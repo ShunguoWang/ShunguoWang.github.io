@@ -64,6 +64,10 @@ I am a geophysicist with a deep enthusiasm for developing innovative algorithms,
 
 <br> <b> <span style="font-size:150%"> Employment </span> </b> <br> 
 <br> <b>2020 - </b> 
+
+<br class="line-space">
+
+
 <br> Senior Researcher, Norwegian University of Science and Technology
 <br> Collaborators: [Ståle E. Johansen](https://www.ntnu.no/ansatte/stale.johansen), [Martin Landrø](https://www.ntnu.no/ansatte/martin.landro)
 <br> <b>2018 - 2020</b> 
