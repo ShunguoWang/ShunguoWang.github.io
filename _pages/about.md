@@ -63,13 +63,14 @@ redirect_from:
 I am a geophysicist with a deep enthusiasm for developing innovative algorithms, acquiring geophysical datasets in exciting and challenging environments, and processing & inverting field data to unveil the fascinating narratives of Mother Earth. My expertise lies in electrical resistivity tomography, radio/audio-magnetotellurics, controlled source electromagnetics, and seismic refraction. Beyond my professional interests, I enjoy hiking, skiing, reading, yoga, and practicing Tai Chi.
 
 <br> <b> <span style="font-size:150%"> Employment </span> </b> <br> 
+<br> <b>2020 - </b> 
 <br> Senior Researcher, Norwegian University of Science and Technology
 <br> Collaborators: [Ståle E. Johansen](https://www.ntnu.no/ansatte/stale.johansen), [Martin Landrø](https://www.ntnu.no/ansatte/martin.landro)
 <br class="line-space">
 <br> <b>2018 - 2020</b> 
 <br> Green Scholar (postdoc), Scripps Institution of Oceanography
 <br> Advisor: [Steve Constable](https://marineemlab.ucsd.edu/steve/)
-
+<br style="line-height: 1;">
 <br> <b>2019</b> 
 <br> Lecturer, Scripps Institution of Oceanography
 
