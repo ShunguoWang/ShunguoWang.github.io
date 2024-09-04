@@ -59,10 +59,10 @@ I am a geophysicist with a deep enthusiasm for developing innovative algorithms,
 <br> <b> <span style="font-size:150%"> Employment </span> </b> <br> 
 <br> <b>2020 - </b> 
 <br> Researcher, Norwegian University of Science and Technology
-<br> Collaborators: [Ståle Emil Johansen](https://www.ntnu.no/ansatte/stale.johansen), [Martin Landrø](https://www.ntnu.no/ansatte/martin.landro)
+<br> Collaborators: [Ståle E. Johansen](https://www.ntnu.no/ansatte/stale.johansen), [Martin Landrø](https://www.ntnu.no/ansatte/martin.landro)
 <br> <b>2018 - 2020</b> 
 <br> Green Scholar (postdoc), Scripps Institution of Oceanography
-<br> Advisor: [Steven Constable](https://marineemlab.ucsd.edu/steve/)
+<br> Advisor: [Steve Constable](https://marineemlab.ucsd.edu/steve/)
 <br> <b>2019</b> 
 <br> Lecturer, Scripps Institution of Oceanography
 <br> <b>2018</b> 
@@ -75,7 +75,7 @@ I am a geophysicist with a deep enthusiasm for developing innovative algorithms,
 <br> <b> <span style="font-size:150%"> Education </span> </b> <br>
 <br> <b>2013 - 2017</b> 
 <br> Ph.D., Solid-Earth Physics, Uppsala University
-<br> Advisors: [Mehrdad Bastani](https://www.researchgate.net/profile/Mehrdad_Bastani), [Thomas Kalscheuer](https://katalog.uu.se/profile/?id=N4-593), [Alireza Malehmir](https://katalog.uu.se/profile/?id=N3-1060), [Laust B. Pedersen](https://www.researchgate.net/profile/Laust_Pedersen)
+<br> Advisors: [M. Bastani](https://www.researchgate.net/profile/Mehrdad_Bastani), [T. Kalscheuer](https://katalog.uu.se/profile/?id=N4-593), [A. Malehmir (lead)](https://katalog.uu.se/profile/?id=N3-1060), [L. B. Pedersen](https://www.researchgate.net/profile/Laust_Pedersen)
 <br> <b>2017</b> 
 <br> Visiting graduate, Scripps Institution of Oceanography
 <br> Host: [Steven Constable](https://marineemlab.ucsd.edu/steve/)
