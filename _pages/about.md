@@ -73,11 +73,11 @@ I am a geophysicist with a deep enthusiasm for developing innovative algorithms,
 <br style="line-height: 1;">
 <br> <b>2019</b> 
 <br> Lecturer, Scripps Institution of Oceanography
-
+<br style="line-height: 1;">
 <br> <b>2018</b> 
 <br> Visiting postdoc, Memorial University of Newfoundland
 <br> Collaborators: [Colin G. Farquharson](https://www.esd.mun.ca/~farq/), [Hormoz Jahandari](https://www.mun.ca/math/people/ppl-postdoc/hormoz.php)
-
+<br style="line-height: 1;">
 <br> <b>2014, 2016</b> 
 <br> EM geophysicist, Geological Survey of Sweden
 <br> Collaborators: [Mehrdad Bastani](https://www.researchgate.net/profile/Mehrdad_Bastani), [Lena Persson](https://www.researchgate.net/profile/Lena_Persson2)
@@ -86,29 +86,29 @@ I am a geophysicist with a deep enthusiasm for developing innovative algorithms,
 <br> <b>2013 - 2017</b> 
 <br> Ph.D., Solid-Earth Physics, Uppsala University
 <br> Advisors: [M. Bastani](https://www.researchgate.net/profile/Mehrdad_Bastani), [T. Kalscheuer](https://katalog.uu.se/profile/?id=N4-593), [A. Malehmir (lead)](https://katalog.uu.se/profile/?id=N3-1060), [L. B. Pedersen](https://www.researchgate.net/profile/Laust_Pedersen)
-
+<br style="line-height: 1;">
 <br> <b>2017</b> 
 <br> Visiting graduate, Scripps Institution of Oceanography
 <br> Host: [Steven Constable](https://marineemlab.ucsd.edu/steve/)
-
+<br style="line-height: 1;">
 <br> <b>2016</b> 
 <br> Visiting graduate, Leicester University
 <br> Host: [Max Moorkamp](https://www.geophysik.uni-muenchen.de/Members/moorkamp)
-
+<br style="line-height: 1;">
 <br> <b>2012 - 2013</b> 
 <br> Ph.D. candidate, Applied Geophysics, Central South University
 <br> Advisor: [Shikun Dai](https://www.researchgate.net/scientific-contributions/2107347787_Shikun_Dai)
-
+<br style="line-height: 1;">
 <br> <b>2009 - 2012</b> 
 <br> M.S., Earth Exploration and Information Technology, Central South University
 <br> Advisors: [Bin Xiong](https://www.researchgate.net/scientific-contributions/2078601980_Bin_Xiong), [Jishan He](http://en.csu.edu.cn/info/1010/1429.htm)
-
+<br style="line-height: 1;">
 <br> <b>2011</b> 
 <br> Exchange program, Guilin University of Technology
-
+<br style="line-height: 1;">
 <br> <b>2005 - 2009</b> 
 <br> B.S., Info-physics and Geomatics Engineering, Central South University
-
+<br style="line-height: 1;">
 <title>Online Visitors Counter</title>
 <script src='http://shunguowang.github.io/online-visitors-counter-master/ovc/counter.js'></script>
 
