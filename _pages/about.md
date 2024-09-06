@@ -59,8 +59,8 @@ redirect_from:
   </a>
 </div>
 
-
-I am a geophysicist with a deep enthusiasm for developing innovative algorithms, acquiring geophysical datasets in exciting and challenging environments, and processing & inverting field data to unveil the fascinating narratives of Mother Earth. My expertise lies in electrical resistivity tomography, radio/audio-magnetotellurics, controlled source electromagnetics, and seismic refraction. Beyond my professional interests, I enjoy hiking, skiing, reading, yoga, and practicing Tai Chi.
+<br style="line-height: 1;">
+I am a geophysicist with a deep enthusiasm for developing innovative algorithms, acquiring geophysical datasets in exciting and challenging environments, and processing & inverting field data to unveil the fascinating narratives of Mother Earth. My expertise lies in electrical resistivity tomography, radio/audio-magnetotellurics, controlled source electromagnetics, and seismic refraction. Beyond my professional interests, I enjoy hiking, reading, yoga, skiing, climbing, practicing Tai Chi, and surfing (while I was in San Diego). 
 
 <br> <b> <span style="font-size:150%"> Employment </span> </b> <br> 
 <br> <b>2020 - </b> 
