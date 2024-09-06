@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Others" 
+title: "News" 
 permalink: /others/ 
 author_profile: true
 ---
