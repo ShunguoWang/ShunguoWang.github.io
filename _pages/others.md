@@ -9,6 +9,7 @@ author_profile: true
 <b>1. EGU 2025</b> <br>
 Welcome to our session EMRP2.4
 Electromagnetic Induction in Geophysics: Data, Models, Inversions and Interpretations
+https://meetingorganizer.copernicus.org/EGU25/session/51726;
 <br>
 
 <b>2. Postdoc opportunity at NGU </b> <br>
