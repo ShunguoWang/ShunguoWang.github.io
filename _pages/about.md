@@ -63,21 +63,30 @@ redirect_from:
 I am a geophysicist with a deep enthusiasm for developing innovative algorithms, acquiring geophysical datasets in exciting and challenging environments, and processing & inverting field data to unveil the fascinating narratives of Mother Earth. My expertise lies in electrical resistivity tomography, radio/audio-magnetotellurics, controlled source electromagnetics, and seismic refraction. Beyond my professional interests, I enjoy hiking, reading, yoga, skiing, climbing, practicing Tai Chi, and surfing (while I was in San Diego). 
 
 <br> <b> <span style="font-size:150%"> Employment </span> </b> <br> 
-<br> <b>2020 - </b> 
+<br> <b>2024 - </b> 
+<br> Researcher, The Geological Survey of Norway
+<br> Guest Researcher, Norwegian University of Science and Technology
+<br class="line-space">
+
+<br> <b>2020 - 2024</b> 
 <br> Senior Researcher, Norwegian University of Science and Technology
 <br> Collaborators: [Ståle E. Johansen](https://www.ntnu.no/ansatte/stale.johansen), [Martin Landrø](https://www.ntnu.no/ansatte/martin.landro)
 <br class="line-space">
+
 <br> <b>2018 - 2020</b> 
 <br> Green Scholar (postdoc), Scripps Institution of Oceanography
 <br> Advisor: [Steve Constable](https://marineemlab.ucsd.edu/steve/)
 <br style="line-height: 1;">
+
 <br> <b>2019</b> 
 <br> Lecturer, Scripps Institution of Oceanography
 <br style="line-height: 1;">
+
 <br> <b>2018</b> 
 <br> Visiting postdoc, Memorial University of Newfoundland
 <br> Collaborators: [Colin G. Farquharson](https://www.esd.mun.ca/~farq/), [Hormoz Jahandari](https://www.mun.ca/math/people/ppl-postdoc/hormoz.php)
 <br style="line-height: 1;">
+
 <br> <b>2014, 2016</b> 
 <br> EM geophysicist, Geological Survey of Sweden
 <br> Collaborators: [Mehrdad Bastani](https://www.researchgate.net/profile/Mehrdad_Bastani), [Lena Persson](https://www.researchgate.net/profile/Lena_Persson2)
