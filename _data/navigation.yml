@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "News"
+    url: /news/
+    
   - title: "Publications"
     url: /publications/   
     
@@ -18,8 +21,5 @@ main:
   - title: "CV"
     url: /files/CV_SWang.pdf
       
-  - title: "News"
-    url: /news/
-    
 #  - title: "Guide"
 #    url: /markdown/
