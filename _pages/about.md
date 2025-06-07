@@ -16,6 +16,8 @@ redirect_from:
     <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
     <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
     <li data-target="#carouselExampleCaptions" data-slide-to="3"></li>
+    <li data-target="#carouselExampleCaptions" data-slide-to="4"></li>
+    <li data-target="#carouselExampleCaptions" data-slide-to="5"></li>
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
@@ -49,9 +51,9 @@ redirect_from:
       </div>
     </div>
         <div class="carousel-item">
-      <img src="http://shunguowang.github.io/images/LofotenRMT.heic" class="d-block w-100" alt="...">
+      <img src="http://shunguowang.github.io/images/LofotenRMT.jpeg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
-        <p>Surf site in Lofoten, Norway</p>
+        <p>CSRMT survey in Lofoten, Norway</p>
       </div>
     </div>
   </div>
