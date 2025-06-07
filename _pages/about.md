@@ -48,6 +48,12 @@ redirect_from:
         <p>Surf site in Lofoten, Norway</p>
       </div>
     </div>
+        <div class="carousel-item">
+      <img src="http://shunguowang.github.io/images/LofotenRMT.jpeg" class="d-block w-100" alt="...">
+      <div class="carousel-caption d-none d-md-block">
+        <p>Surf site in Lofoten, Norway</p>
+      </div>
+    </div>
   </div>
   <a class="carousel-control-prev" data-target="#carouselExampleCaptions" role="button" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
