@@ -51,7 +51,7 @@ redirect_from:
       </div>
     </div>
         <div class="carousel-item">
-      <img src="http://shunguowang.github.io/images/LofotenRMT.jpeg" class="d-block w-100" alt="...">
+      <img src="http://shunguowang.github.io/images/Lofoten.jpeg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
         <p>CSRMT survey in Lofoten, Norway</p>
       </div>
