@@ -10,6 +10,7 @@ author_profile: true
 A hearty welcome to Marin Yanev! He's joined NGU for his summer internship in EM geophysics, working with me. He is currently an undergraduate student in the Department of Physics at NTNU. 
 <br>
 
+<br>
 <b> >> EGU 2025</b> <br>
 Welcome to our session EMRP2.4
 <b>[Electromagnetic Induction in Geophysics: Data, Models, Inversions and Interpretations](https://meetingorganizer.copernicus.org/EGU25/session/51726)</b>
