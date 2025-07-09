@@ -6,6 +6,11 @@ author_profile: true
 ---
 
 <br>
+<b> >> BGA “New Advances in Geophysics” Meeting 2025 </b> <br>
+It was great to meet colleagues at Swansea University. 
+<br>
+
+<br>
 <b> >> New intern at NGU </b> <br>
 A hearty welcome to Marin Yanev! He's joined NGU for his summer internship in EM geophysics, working with me. He is currently an undergraduate student in the Department of Physics at NTNU. 
 <br>
