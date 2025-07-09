@@ -7,7 +7,7 @@ author_profile: true
 
 <br>
 <b> >> BGA “New Advances in Geophysics” Meeting 2025 </b> <br>
-It was great to meet colleagues at Swansea University. 
+It was great to meet colleagues in Swansea, UK.  
 <br>
 
 <br>
