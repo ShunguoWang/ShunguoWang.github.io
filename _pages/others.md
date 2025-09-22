@@ -5,6 +5,12 @@ permalink: /news/
 author_profile: true
 ---
 
+
+<br>
+<b> >> IAGA / IASPEI Joint Scientific Meeting 2025 </b> <br>
+It was great to meet friends and colleagues in Lisbon, Portugal.  
+<br>
+
 <br>
 <b> >> BGA “New Advances in Geophysics” Meeting 2025 </b> <br>
 It was great to meet colleagues in Swansea, UK.  
