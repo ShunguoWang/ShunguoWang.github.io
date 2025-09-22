@@ -11,17 +11,14 @@ author_profile: true
 It was great to meet friends and colleagues in Lisbon, Portugal.  
 <br>
 
-<br>
 <b> >> BGA “New Advances in Geophysics” Meeting 2025 </b> <br>
 It was great to meet colleagues in Swansea, UK.  
 <br>
 
-<br>
 <b> >> New intern at NGU </b> <br>
 A hearty welcome to Marin Yanev! He's joined NGU for his summer internship in EM geophysics, working with me. He is currently an undergraduate student in the Department of Physics at NTNU. 
 <br>
 
-<br>
 <b> >> EGU 2025</b> <br>
 Welcome to our session EMRP2.4
 <b>[Electromagnetic Induction in Geophysics: Data, Models, Inversions and Interpretations](https://meetingorganizer.copernicus.org/EGU25/session/51726)</b>
