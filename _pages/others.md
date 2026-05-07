@@ -5,6 +5,15 @@ permalink: /news/
 author_profile: true
 ---
 
+<br>
+<b> >> EGU 2026</b> <br>
+Welcome to our session EMRP2.3
+<b>[Electromagnetic Induction in Geophysics: Data, Models, Inversions and Interpretations](https://meetingorganizer.copernicus.org/EGU26/session/58388)</b>
+<br>  Convener: Shunguo Wang | Co-conveners: Paula Rulff, Wouter Deleersnyder, Mitra Kangazian, Pierre Wawrzyniak
+<br>  Orals  | Tue, 05 May, 10:45–12:30 (CEST) Room -2.20 
+<br>  Posters on site  | Attendance Wed, 06 May, 08:30–10:15 (CEST) | Display Wed, 06 May, 08:30–12:30 Hall X2 
+<br>  Posters virtual  | Mon, 04 May, 14:06–15:45 (CEST) vPoster spot 1a, Mon, 04 May, 16:15–18:00 (CEST) vPoster Discussion 
+<br style="line-height: 1">
 
 <br>
 <b> >> IAGA / IASPEI Joint Scientific Meeting 2025 </b> <br>
