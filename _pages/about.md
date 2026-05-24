@@ -72,7 +72,7 @@ I am a geophysicist with a deep enthusiasm for developing innovative algorithms,
 
 <br> <b> <span style="font-size:150%"> Employment </span> </b> <br> 
 <br> <b>2024 - </b> 
-<br> Researcher, The Geological Survey of Norway (NGU)
+<br> Researcher, Geological Survey of Norway (NGU)
 <br> Guest Researcher, Norwegian University of Science and Technology
 <br class="line-space">
 <br> <b>2020 - 2024</b> 
