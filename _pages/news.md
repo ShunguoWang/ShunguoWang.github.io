@@ -15,6 +15,13 @@ Welcome to our session EMRP2.3
 <br>  Posters virtual  | Mon, 04 May, 14:06–15:45 (CEST) vPoster spot 1a, Mon, 04 May, 16:15–18:00 (CEST) vPoster Discussion 
 <br style="line-height: 1">
 
+Welcome to our session ERE4.4
+<b>[Using Geophysical Data to Investigate Continental Lithosphere for Sustainable Resource Systems](https://meetingorganizer.copernicus.org/EGU26/session/58030)</b>
+<br>  Convener: Xiaolei Tu | Co-conveners: Qingyun Di, Shunguo Wang, Adam Schultz, Sofie Gradmann
+<br>  Orals | Thu, 07 May, 16:15–18:00 (CEST) Room -2.43
+<br>  Posters on site | Attendance Thu, 07 May, 10:45–12:30 (CEST) | Display Thu, 07 May, 08:30–12:30 Hall X4
+<br style="line-height: 1">
+
 <br>
 <b> >> IAGA / IASPEI Joint Scientific Meeting 2025 </b> <br>
 It was great to meet friends and colleagues in Lisbon, Portugal.  
