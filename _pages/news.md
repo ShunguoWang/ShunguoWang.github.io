@@ -6,6 +6,12 @@ author_profile: true
 ---
 
 <br>
+<b> >> The 27th EM Induction Workshop </b> <br>
+<b>[Three abstracts from our team: Yanev and Wang, Montiel-Álvarez et al., and Wang et al.](https://www.emiw.org/fileadmin/emiw2026/images/EMIW2026_ProgramBook.pdf)</b>
+<br>  St. John's, Canada, 2nd - 8th August 2026 
+<br style="line-height: 1">
+
+<br>
 <b> >> EGU 2026</b> <br>
 Welcome to our session EMRP2.3
 <b>[Electromagnetic Induction in Geophysics: Data, Models, Inversions and Interpretations](https://meetingorganizer.copernicus.org/EGU26/session/58388)</b>
