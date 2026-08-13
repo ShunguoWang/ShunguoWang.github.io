@@ -6,13 +6,13 @@ author_profile: true
 ---
 
 <br>
-<b> >> The 27th EM Induction Workshop (EMIW) St. John's, Canada, 2nd - 8th August 2026 </b> <br>
-<b>[Three abstracts from our team: Yanev and Wang, Montiel-Álvarez et al., and Wang et al.](https://www.emiw.org/fileadmin/emiw2026/images/EMIW2026_ProgramBook.pdf)</b>
+<b> >> The 27th EM Induction Workshop (EMIW) </b> <br>
+<b> It was a great opportunity to share our research with friends and colleagues in St. John’s, Canada. Our team contributed three abstracts: [Yanev and Wang, Montiel-Álvarez et al., and Wang et al.](https://www.emiw.org/fileadmin/emiw2026/images/EMIW2026_ProgramBook.pdf)</b>
 <br style="line-height: 1">
 
 <br>
-<b> >> MT 3D inversion workshop (MT3DINV4) St. John's, Canada, 31 July - 2 August 2026 </b> <br>
-<b>[Front edge of MT 3D Modelling and Inversion](https://mt3dinv4.mtnet.info/Home.html)</b>
+<b> >> MT 3D inversion workshop (MT3DINV4) 
+<b> This workshop presents cutting-edge research in [MT 3D Modelling and Inversion](https://mt3dinv4.mtnet.info/Home.html)</b>
 <br style="line-height: 1">
 
 <br>
