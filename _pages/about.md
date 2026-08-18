@@ -7,68 +7,97 @@ redirect_from:
   - /about/
   - /about.html
 ---
- 
- <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel"
-  style="margin-top: 10px; margin-bottom: 10px;">
-  <ol class="carousel-indicators">
-    <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
-    <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
-    <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
-    <li data-target="#carouselExampleCaptions" data-slide-to="3"></li>
-    <li data-target="#carouselExampleCaptions" data-slide-to="4"></li>
-    <li data-target="#carouselExampleCaptions" data-slide-to="5"></li>
-  </ol>
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img src="http://shunguowang.github.io/images/SIO.jpeg" class="d-block w-100" alt="...">
-      <div class="carousel-caption d-none d-md-block">
-        <p>SIO view from Scripps pier.</p>
-      </div>
-    </div>
-    <div class="carousel-item">
-      <img src="http://shunguowang.github.io/images/Rock.jpeg" class="d-block w-100" alt="...">
-      <div class="carousel-caption d-none d-md-block">
-        <p>Folded sedimentary rock at La Jolla beach.</p>
-      </div>
-    </div>
-    <div class="carousel-item">
-      <img src="http://shunguowang.github.io/images/Uppsala.jpeg" class="d-block w-100" alt="...">
-      <div class="carousel-caption d-none d-md-block">
-        <p>Dark and beautiful Uppsala.</p>
-      </div>
-    </div>
-    <div class="carousel-item">
-      <img src="http://shunguowang.github.io/images/RMT.jpeg" class="d-block w-100" alt="...">
-      <div class="carousel-caption d-none d-md-block">
-        <p>RMT field work at Äspö, Sweden.</p>
-      </div>
-    </div>
-        <div class="carousel-item">
-      <img src="http://shunguowang.github.io/images/Surf.jpeg" class="d-block w-100" alt="...">
-      <div class="carousel-caption d-none d-md-block">
-        <p>Surf site in Lofoten, Norway</p>
-      </div>
-    </div>
-        <div class="carousel-item">
-      <img src="http://shunguowang.github.io/images/LofotenRMT2.png" class="d-block w-100" alt="...">
-      <div class="carousel-caption d-none d-md-block">
-        <p>CSRMT survey in Lofoten, Norway</p>
-      </div>
-    </div>
-  </div>
-  <a class="carousel-control-prev" data-target="#carouselExampleCaptions" role="button" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="carousel-control-next" data-target="#carouselExampleCaptions" role="button" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
+
+<style>
+.sw-carousel { position: relative; max-width: 100%; margin: 10px 0; }
+.sw-carousel figure { margin: 0; }
+.sw-slide { display: none; }
+.sw-slide.is-active { display: block; }
+.sw-slide img { width: 100%; display: block; border-radius: 4px; }
+.sw-slide figcaption {
+  text-align: center; font-size: 0.9rem; color: #555;
+  padding: 6px 4px 0;
+}
+.sw-btn {
+  position: absolute; top: 40%; transform: translateY(-50%);
+  background: rgba(0,0,0,0.4); color: #fff; border: 0;
+  font-size: 1.5rem; line-height: 1; padding: 6px 12px;
+  cursor: pointer; border-radius: 4px; user-select: none;
+}
+.sw-btn:hover { background: rgba(0,0,0,0.65); }
+.sw-prev { left: 8px; } .sw-next { right: 8px; }
+.sw-dots { text-align: center; margin-top: 8px; }
+.sw-dot {
+  display: inline-block; width: 10px; height: 10px; margin: 0 4px;
+  border-radius: 50%; background: #bbb; cursor: pointer;
+}
+.sw-dot.is-active { background: #555; }
+</style>
+
+<div class="sw-carousel" id="swCarousel">
+  <figure class="sw-slide is-active">
+    <img src="/images/SIO.jpeg" alt="SIO view from Scripps pier">
+    <figcaption>SIO view from Scripps pier.</figcaption>
+  </figure>
+  <figure class="sw-slide">
+    <img src="/images/Rock.jpeg" alt="Folded sedimentary rock at La Jolla beach">
+    <figcaption>Folded sedimentary rock at La Jolla beach.</figcaption>
+  </figure>
+  <figure class="sw-slide">
+    <img src="/images/Uppsala.jpeg" alt="Uppsala">
+    <figcaption>Dark and beautiful Uppsala.</figcaption>
+  </figure>
+  <figure class="sw-slide">
+    <img src="/images/RMT.jpeg" alt="RMT field work at Äspö, Sweden">
+    <figcaption>RMT field work at Äspö, Sweden.</figcaption>
+  </figure>
+  <figure class="sw-slide">
+    <img src="/images/Surf.jpeg" alt="Surf site in Lofoten, Norway">
+    <figcaption>Surf site in Lofoten, Norway.</figcaption>
+  </figure>
+  <figure class="sw-slide">
+    <img src="/images/LofotenRMT2.png" alt="CSRMT survey in Lofoten, Norway">
+    <figcaption>CSRMT survey in Lofoten, Norway.</figcaption>
+  </figure>
+  <button class="sw-btn sw-prev" aria-label="Previous">&#10094;</button>
+  <button class="sw-btn sw-next" aria-label="Next">&#10095;</button>
+  <div class="sw-dots"></div>
 </div>
- 
+
+<script>
+(function () {
+  var root = document.getElementById('swCarousel');
+  if (!root) return;
+  var slides = root.querySelectorAll('.sw-slide');
+  var dotsWrap = root.querySelector('.sw-dots');
+  var i = 0, timer;
+
+  slides.forEach(function (_, idx) {
+    var d = document.createElement('span');
+    d.className = 'sw-dot' + (idx === 0 ? ' is-active' : '');
+    d.addEventListener('click', function () { go(idx); reset(); });
+    dotsWrap.appendChild(d);
+  });
+  var dots = dotsWrap.querySelectorAll('.sw-dot');
+
+  function go(n) {
+    slides[i].classList.remove('is-active');
+    dots[i].classList.remove('is-active');
+    i = (n + slides.length) % slides.length;
+    slides[i].classList.add('is-active');
+    dots[i].classList.add('is-active');
+  }
+  function reset() { clearInterval(timer); timer = setInterval(function () { go(i + 1); }, 5000); }
+
+  root.querySelector('.sw-prev').addEventListener('click', function () { go(i - 1); reset(); });
+  root.querySelector('.sw-next').addEventListener('click', function () { go(i + 1); reset(); });
+  reset();
+})();
+</script>
+
 <br style="line-height: 1;">
 I am a geophysicist with a deep enthusiasm for developing innovative algorithms, acquiring geophysical datasets in exciting and challenging environments, and processing & inverting field data to unveil the fascinating narratives of Mother Earth. My expertise lies in electrical resistivity tomography, radio/audio-magnetotellurics, controlled source electromagnetics, and seismic refraction. Beyond my professional interests, I enjoy hiking, reading, yoga, skiing, climbing, practicing Tai Chi, and surfing (while I was in San Diego). 
- 
+
 <br> <b> <span style="font-size:150%"> Employment </span> </b> <br> 
 <br> <b>2024 - </b> 
 <br> Researcher, Geological Survey of Norway (NGU)
@@ -92,7 +121,7 @@ I am a geophysicist with a deep enthusiasm for developing innovative algorithms,
 <br> <b>2014, 2016</b> 
 <br> EM geophysicist, Geological Survey of Sweden
 <br> Collaborators: [Mehrdad Bastani](https://www.researchgate.net/profile/Mehrdad_Bastani), [Lena Persson](https://www.researchgate.net/profile/Lena_Persson2)
- 
+
 <br> <b> <span style="font-size:150%"> Education </span> </b> <br>
 <br> <b>2013 - 2017</b> 
 <br> Ph.D., Solid-Earth Physics, Uppsala University
@@ -120,7 +149,5 @@ I am a geophysicist with a deep enthusiasm for developing innovative algorithms,
 <br> <b>2005 - 2009</b> 
 <br> B.S., Info-physics and Geomatics Engineering, Central South University
 <br style="line-height: 1;">
-<title>Online Visitors Counter</title>
-<script src='http://shunguowang.github.io/online-visitors-counter-master/ovc/counter.js'></script>
- 
+
 [![Hits](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fshunguowang.github.io&label=hits&icon=github&color=%2379C83D&message_color=%23555555)](https://hitscounter.dev)
