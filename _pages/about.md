@@ -28,7 +28,7 @@ redirect_from:
     <div class="carousel-item">
       <img src="http://shunguowang.github.io/images/Rock.jpeg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
-        <p>Folded sendimentary rock at La Jolla beach.</p>
+        <p>Folded sedimentary rock at La Jolla beach.</p>
       </div>
     </div>
     <div class="carousel-item">
